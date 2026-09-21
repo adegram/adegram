@@ -15,7 +15,7 @@ I'm a DevOps Engineer focused on building practical solutions across the cloud-n
 My Experience spans:
 
 * ☁️ **AWS** — cloud infrastructure and production-oriented workloads
-* 🐧 **Linux** — system administration, troubleshooting, and automation
+* 🐧 **Linux & Bash scripting** — system administration, troubleshooting, and automation
 * 🐳 **Docker** — containerization and optimized container builds
 * ☸️ **Kubernetes** — deploying and managing containerized applications
 * 🏗️ **Terraform** — Infrastructure as Code and infrastructure automation
@@ -68,29 +68,6 @@ I learn by building, troubleshooting, and documenting real infrastructure and de
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/></a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔭 Currently Building & Learning
-
-I'm continuously expanding my DevOps capabilities through hands-on projects, infrastructure labs, and real-world deployment scenarios.
-
-* ☁️ AWS cloud infrastructure
-* ☸️ Kubernetes administration and workloads
-* 🏗️ Terraform & Infrastructure as Code
-* 🔄 CI/CD automation
-* 🔀 GitOps with Argo CD
-* 📊 Monitoring & observability
-* 🐧 Linux administration & Bash automation
 
 ---
 
