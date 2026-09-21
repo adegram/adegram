@@ -31,44 +31,7 @@ I learn by building, troubleshooting, and documenting real infrastructure and de
 
 ## 🛠️ Technologies & Tools
 
-### ☁️ Cloud & Infrastructure
-
-<p align="left">
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/></a>
-  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"/></a>
-</p>
-
-### 🐳 Containers & Orchestration
-
-<p align="left">
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/></a>
-  <a href="https://helm.sh/"><img src="https://skillicons.dev/icons?i=helm" width="48" height="48" alt="Helm"/></a>
-</p>
-
-### 🔄 CI/CD & GitOps
-
-<p align="left">
-  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/></a>
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/></a>
-  <a href="https://argo-cd.readthedocs.io/"><img src="https://skillicons.dev/icons?i=argo" width="48" height="48" alt="Argo CD"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
-</p>
-
-### 📊 Monitoring & Observability
-
-<p align="left">
-  <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/></a>
-  <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/></a>
-</p>
-
-### 🐧 Systems & Scripting
-
-<p align="left">
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/></a>
-</p>
-
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,helm,jenkins,githubactions,argo,prometheus,grafana,linux,bash,git" />
 ---
 
 ## 📜 Certifications & Learning
