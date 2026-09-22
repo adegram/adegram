@@ -8,27 +8,6 @@ I enjoy turning manual infrastructure and deployment processes into **reliable, 
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a DevOps Engineer focused on building practical solutions across the cloud-native ecosystem.
-
-My Experience spans:
-
-* ☁️ **AWS** — cloud infrastructure and production-oriented workloads
-* 🐧 **Linux & Bash scripting** — system administration, troubleshooting, and automation
-* 🐳 **Docker** — containerization and optimized container builds
-* ☸️ **Kubernetes** — deploying and managing containerized applications
-* 🏗️ **Terraform** — Infrastructure as Code and infrastructure automation
-* 🔄 **CI/CD** — Jenkins and GitHub Actions
-* 🔀 **GitOps** — Argo CD and declarative deployments
-* 📦 **Helm** — packaging and managing Kubernetes applications
-* 📊 **Monitoring** — Prometheus and Grafana
-* 🖥️ **Bash** — scripting and task automation
-
-I learn by building, troubleshooting, and documenting real infrastructure and deployment workflows.
-
----
-
 ## 🛠️ My Tools & Technologies
 
 <p align="center">
@@ -66,6 +45,22 @@ I'm open to connecting with **DevOps engineers, cloud professionals, recruiters,
   </a>
 </p>
 
+---
+
+## 👨‍💻 My Experience spans:
+
+* ☁️ **AWS** — cloud infrastructure and production-oriented workloads
+* 🐧 **Linux & Bash scripting** — system administration, troubleshooting, and automation
+* 🐳 **Docker** — containerization and optimized container builds
+* ☸️ **Kubernetes** — deploying and managing containerized applications accross different dubernetes distros
+* 🏗️ **Terraform** — Infrastructure as Code and infrastructure automation
+* 🔄 **CI/CD** — Jenkins and GitHub Actions
+* 🔀 **GitOps** — Argo CD and declarative deployments
+* 📦 **Helm** — packaging and managing Kubernetes applications
+* 📊 **Monitoring** — Prometheus and Grafana
+* 🖥️ **Bash** — scripting and task automation
+
+  
 ---
 
 <p align="center">
