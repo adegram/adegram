@@ -10,7 +10,7 @@ Everyday I build, I teach and I learn
   <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,jenkins,githubactions,prometheus,grafana,linux,gitlab,bash,debian,ansible,git,ae,html,nginx,postman,ps,figma,ubuntu,vercel,python" />
 </p>
 
-**☀️ Helm 🐙 Argo CD ** 
+**☀️ Helm ** **| 🐙 Argo CD ** 
 
 ---
 
