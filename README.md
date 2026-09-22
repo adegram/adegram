@@ -11,10 +11,10 @@ I enjoy turning manual infrastructure and deployment processes into **reliable, 
 ## 🛠️ My Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,jenkins,githubactions,prometheus,grafana,linux,gitlab,bash,debian,ansible,git,html,nginx,postman,ps,ubuntu,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,jenkins,githubactions,prometheus,grafana,linux,gitlab,bash,debian,ansible,git,ae,html,nginx,postman,ps,figma,ubuntu,vercel,python" />
 </p>
 
-**Also working with:** Helm • 🐙 Argo CD 
+**☀️ Helm • 🐙 Argo CD ** 
 
 ---
 
