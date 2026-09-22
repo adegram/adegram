@@ -29,12 +29,10 @@ I learn by building, troubleshooting, and documenting real infrastructure and de
 
 ---
 
-## 🛠️ Technologies & Tools
-
-## 🧰 Toolbox
+## 🛠️ My Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,sonarqube,githubactions,prometheus,grafana,linux,gitlab,bash,git" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,jenkins,githubactions,prometheus,grafana,linux,gitlab,bash,debian,ansible,git,html,nginx,postman,ps,ubuntu,vercel" />
 </p>
 
 **Also working with:** Helm • 🐙 Argo CD 
@@ -47,7 +45,7 @@ I learn by building, troubleshooting, and documenting real infrastructure and de
 * ☸️ AWS Cloud Practitioner
 * ⚙️ Agile Methodology
 * 🔗 Git for DevOps
-* 🌐 Jenkins Pipeline: Declarative and IaC approaches for DevOps
+* 🌐 Jenkins: Declarative approaches for DevOps
 * 🔄 Linux
 
 ---
