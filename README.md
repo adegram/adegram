@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Adedoyin
+# 👏 Hi! I'm Adedoyin - A DevOps and Cloud Engineer  
 
-### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | GitOps
-
-I build, automate, and manage cloud infrastructure and deployment workflows with a focus on **AWS, Kubernetes, Infrastructure as Code, CI/CD, and GitOps**.
-
-I enjoy turning manual infrastructure and deployment processes into **reliable, repeatable, and automated workflows**.
+Everyday I build, I teach and I learn
 
 ---
 
