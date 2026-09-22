@@ -1,9 +1,3 @@
-# 👏 Hi! I'm Adedoyin - A DevOps and Cloud Engineer  
-
-Everyday I build, I teach and I learn
-
----
-
 ## 🛠️ My Tools & Technologies
 
 <p align="center">
@@ -16,12 +10,7 @@ Everyday I build, I teach and I learn
 
 ## 📜 Certifications & Credentials
 
-* ☁️ AWS Solutions Architect - Associate
-* ☸️ AWS Cloud Practitioner
-* ⚙️ Agile Methodology
-* 🔗 Git for DevOps
-* 🌐 Jenkins: Declarative approaches for DevOps
-* 🔄 Linux
+### ☁️ AWS Solutions Architect - Associate | ☸️ AWS Cloud Practitioner | ⚙️ Agile Methodology | 🔗 Git for DevOps | 🌐 Jenkins: Declarative approaches for DevOps | 🔄 Linux
 
 ---
 
@@ -39,26 +28,4 @@ I'm open to connecting with **DevOps engineers, cloud professionals, recruiters,
   <a href="https://hashnode.com/@adegram">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 👨‍💻 My Experience spans:
-
-* ☁️ **AWS** — cloud infrastructure and production-oriented workloads
-* 🐧 **Linux & Bash scripting** — system administration, troubleshooting, and automation
-* 🐳 **Docker** — containerization and optimized container builds
-* ☸️ **Kubernetes** — deploying and managing containerized applications accross different dubernetes distros
-* 🏗️ **Terraform** — Infrastructure as Code and infrastructure automation
-* 🔄 **CI/CD** — Jenkins and GitHub Actions
-* 🔀 **GitOps** — Argo CD and declarative deployments
-* 📦 **Helm** — packaging and managing Kubernetes applications
-* 📊 **Monitoring** — Prometheus and Grafana
-* 🖥️ **Bash** — scripting and task automation
-
-  
----
-
-<p align="center">
-  ⚙️ <b>Build. Automate. Deploy. Monitor. Repeat.</b>
 </p>
