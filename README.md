@@ -6,18 +6,11 @@
 
 #### ☀️ Helm, 🐙 Argo CD
 
----
-
 ## 📜 Certifications & Credentials
 
 ### ☁️ AWS Solutions Architect - Associate | ☸️ AWS Cloud Practitioner | ⚙️ Agile Methodology | 🔗 Git for DevOps | 🌐 Jenkins: Declarative approaches for DevOps | 🔄 Linux
 
----
-
 ## 🤝 Let's Connect
-
-I'm open to connecting with **DevOps engineers, cloud professionals, recruiters, and teams building cloud-native infrastructure.**
-
 <p align="center">
   <a href="https://www.linkedin.com/in/adegram/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
