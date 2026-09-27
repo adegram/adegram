@@ -7,7 +7,7 @@
 
 ## 📜 Certifications & Credentials
 
-### ☁️ AWS Solutions Architect - Associate | ☸️ AWS Cloud Practitioner | ⚙️ Agile Methodology | 🔗 Git for DevOps | 🌐 Jenkins: Declarative approaches for DevOps | 🔄 Linux
+### ☁️ AWS Solutions Architect - Associate | ☸️ AWS Cloud Practitioner | ⚙️ Agile Methodology | 🔗 Git for DevOps | 🌐 Jenkins: Declarative approaches for DevOps | 🐧 Linux Unhatched
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adegram/">
